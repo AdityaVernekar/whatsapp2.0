@@ -1,3 +1,11 @@
+This Whatsapp 2.0 clone is built using NextJs,Styled-Components,Firebase v9 
+You can send messages to anyone using an email provided the reciever shall also have an account 
+Below is a demonstration of how this app works
+
+https://user-images.githubusercontent.com/70686011/147071030-34adb954-0901-4f7d-9834-fe883ed393bc.mp4
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -9,7 +17,6 @@ npm run dev
 # or
 yarn dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
